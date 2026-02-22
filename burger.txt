@@ -1,3 +1,6 @@
 steak
 salade
 tomate
+cornichon
+fromage
+oignon
